@@ -1,1 +1,1 @@
-console.log("autodeploy");
+console.log("push");
