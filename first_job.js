@@ -1,1 +1,1 @@
-console.log("con autodeploy")
+console.log("autodeploy");
