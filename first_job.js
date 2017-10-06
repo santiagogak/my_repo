@@ -1,1 +1,1 @@
-console.log("con version control esto no deberia estar en github");
+console.log("con version control esto deberia estar en github");
