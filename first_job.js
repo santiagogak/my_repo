@@ -1,1 +1,1 @@
-console.log("path again and again and beyond");
+console.log("path again and again and beyond and infinity");
