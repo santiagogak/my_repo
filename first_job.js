@@ -1,1 +1,1 @@
-console.log("path again and again and beyond and infinity and mooooore");
+console.log("this is an example!!")
