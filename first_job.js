@@ -20,7 +20,4 @@ console.log("stgo wuz here with his latino accent")
 // hello hello hello hello hello
 // updating again and again and again
 // updating from openfn using taylordowns2000
-// updating from of with a dirty path from another job
-// staging test
-// from gh to of
-// from of to gh
+// updating from of with a dirty path from another json
